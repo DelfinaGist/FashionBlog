@@ -13,7 +13,7 @@ export default function Header() {
                 <li><a className="top-a" href="...">On the Street</a></li>
                 <li><a className="top-a" href="...">The Catwalk</a></li>
                 <li><a className="top-a" href="...">AdWatch</a></li>
-                <li><a className="top-a" href="...">Aboot</a></li>
+                <li><a className="top-a" href="...">About</a></li>
             </ul>
         </nav>
     </header>

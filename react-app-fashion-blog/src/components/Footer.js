@@ -10,7 +10,7 @@ export default function Footer () {
                 <li><a className="bot-a" href="...">On the Street</a></li>
                 <li><a className="bot-a" href="...">The Catwalk</a></li>
                 <li><a className="bot-a" href="...">AdWatch</a></li>
-                <li><a className="bot-a" href="...">Aboot</a> </li>
+                <li><a className="bot-a" href="...">About</a> </li>
                 <li><a className="bot-a" href="...">Tips</a></li>
             </ul>
             <h3> &#169; 2013 Valet Industries, Inc</h3>
