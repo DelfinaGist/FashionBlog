@@ -1,3 +1,4 @@
+
 body {
     border-left: 5px solid lightgray;
     min-height: 100%;
@@ -80,5 +81,5 @@ p::first-letter{
 }
   
 h5{
-  color: rgb(157, 152, 152);
+  color: grey;
 }
