@@ -13,7 +13,7 @@ export default function Article (){
                     Maecenas pede purus, tristique ac, tempus eget, egestas quis, mauris. Curabitur non eros. Nullam hendrerit bibendum justo. Fusce iaculis, est quis lacinia pretium, pede metus molestie lacus, at gravida wisi ante at libero. 
                 </p>
                 <aside>
-                    <h3> <a classNames="continue" href="">Continues...</a></h3>
+                <h3> <a classNames="continue" href="">Continues...</a></h3>
                 </aside>
             </article>
             <article>
@@ -25,7 +25,7 @@ export default function Article (){
                     Etiam eget dui. Aliquam erat volutpat. Sed at lorem in nunc porta tristique. Proin nec augue. Quisque aliquam tempor magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc ac magna.
                 </p>
                 <aside>
-                    <h3> <a classNames="continue" href="">Continues...</a></h3>
+                <h3> <a classNames="continue" href="">Continues...</a></h3>
                 </aside>
             </article>
         </main>
