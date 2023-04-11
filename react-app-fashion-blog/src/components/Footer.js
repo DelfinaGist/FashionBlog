@@ -13,7 +13,7 @@ export default function Footer () {
                 <li><a className="bot-a" href="...">About</a> </li>
                 <li><a className="bot-a" href="...">Tips</a></li>
             </ul>
-            <h3> &#169; 2013 Valet Industries, Inc</h3>
+            <h4> &#169; 2013 Valet Industries, Inc</h4>
         </nav>
     </footer>  
         </>

@@ -17,7 +17,8 @@ header, main, footer {
 }
 
 time {
-  color: rgb(157, 152, 152);
+  color: rgb(177, 171, 171);
+  font-size: 25pt;
 }
 
 h1 {
@@ -41,7 +42,7 @@ h2{
 }
   
   .top-a {
-    color:lightgray;
+    color: rgb(177, 171, 171);
     font-size: 18pt;
 }
   
@@ -83,6 +84,7 @@ p::first-letter{
   color: rgb(137, 132, 132);
 }
   
-h5{
+h4{
   color: rgb(157, 152, 152);
+  font-weight: lighter;
 }
