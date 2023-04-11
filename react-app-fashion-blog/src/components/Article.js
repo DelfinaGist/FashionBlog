@@ -3,7 +3,7 @@
 export default function Article (){
     return (
         <>
-            <main>
+        <main>
             <article>
                 <time datetime="2020-11-12">11/12/20</time>
                 <h2 classNames="article-title">On the Street in Brooklyn</h2>
@@ -28,7 +28,7 @@ export default function Article (){
                     <h3> <a classNames="continue" href="">Continues...</a></h3>
                 </aside>
             </article>
-    </main>
+        </main>
         </>
     )
 }
