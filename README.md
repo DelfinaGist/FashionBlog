@@ -2,4 +2,4 @@
 
 # [Github pages Live Link](https://delfinagist.github.io/FashionBlog/)
 
-# [Github link of html version](https://github.com/DelfinaGist/FashionBlog)
+# [Github link of html version](https://github.com/DelfinaGist/FashionBlog/)
