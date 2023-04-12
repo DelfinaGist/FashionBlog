@@ -16,6 +16,8 @@ header, main, footer {
   padding-right: 2rem;
 }
 
+/* // figure out how to use react-datepicker to change the react date size */
+
 time {
   color: rgb(177, 171, 171);
   font-size: 25pt;
