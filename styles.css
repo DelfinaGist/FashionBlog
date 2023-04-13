@@ -31,6 +31,8 @@ h1 {
 
 h2 {
   font-weight: lighter; 
+  color: black;
+
 }
 
 img {
@@ -76,7 +78,8 @@ article {
   padding-bottom: 2rem;
   font-size: 18pt;
   font-weight: lighter;
-  border-bottom: 1px solid lightgray;
+  border-bottom: 1px solid;
+  color: gray;
 }
   
 p::first-letter {
